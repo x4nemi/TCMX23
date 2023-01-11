@@ -1,6 +1,6 @@
 <div align="center" id="top"><br>
 <img src="TCMX_logo.png" width="120"><br><br>
-<h1>Problemas resultos del Training Camp México 2023</h1>
+<h1>Problemas resueltos del Training Camp México 2023</h1>
 <h3><b>Las Divinas<b><br></h3>
 <h4>
 <a href="https://codeforces.com/profile/Lord_Friky">Lord_Friky</a><br>
