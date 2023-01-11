@@ -1,12 +1,12 @@
 <div align="center" id="top"><br>
 <img src="TCMX_logo.png" width="120"><br><br>
 <h1>Problemas resultos del Training Camp México 2023</h1>
-<h2><b>Las Divinas<b><br></h2>
-<h3>
+<h3><b>Las Divinas<b><br></h3>
+<h4>
 <a href="https://codeforces.com/profile/Lord_Friky">Lord_Friky</a><br>
 <a href="https://codeforces.com/profile/valeria-gonzalez">valeria-gonzalez</a><br>
 <a href="https://codeforces.com/profile/xanemi">xanemi</a><br>
-</h3>
+</h4>
 </div>
 
 ## Contests
