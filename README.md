@@ -18,7 +18,7 @@
 - **D**: Hot Black Hot White (**No resuelto aún**)
 - [**E**: Second Order Statistics ⭐](https://github.com/Las-Divinas-ICPC/TCMX23/blob/main/contest01/E.cpp)
 - **F**: Sasha and a Bit of Relax (**No resuelto aún**)
-- **G**: Johnny and Ancient Computer (**No resuelto aún**)
+- [**G**: Johnny and Ancient Computer](https://github.com/Las-Divinas-ICPC/TCMX23/blob/main/contest01/G.cpp)
 - [**H**: Young Physicist ⭐](https://github.com/Las-Divinas-ICPC/TCMX23/blob/main/contest01/H.cpp)
 - **I**: Cut Ribbon (**No resuelto aún**)
 - **J**: Boring Partition (**No resuelto aún**)
