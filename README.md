@@ -114,14 +114,14 @@
 - **B**: Random Numbers (**No resuelto aún**)
 - **C**: Collatz Conjecture (**No resuelto aún**)
 - [**D**: Diary of Hapiness ⭐️](https://github.com/Las-Divinas-ICPC/TCMX23/blob/main/contest08/D.cpp)
-- **E**: Bellevue (**No resuelto aún**)
+- [**E**: Bellevue](https://github.com/Las-Divinas-ICPC/TCMX23/blob/main/contest08/E.cpp)
 - **F**: Symmetric Matrix (**No resuelto aún**)
 - **G**: Apple Trees (**No resuelto aún**)
-- **H**: Equalising Audio (**No resuelto aún**)
+- [**H**: Equalising Audio](https://github.com/Las-Divinas-ICPC/TCMX23/blob/main/contest08/E.cpp)
 - **I**: Linova and Kingdom (**No resuelto aún**)
 - [**J**: Abducting Nathan! ⭐️](https://github.com/Las-Divinas-ICPC/TCMX23/blob/main/contest08/J.cpp)
 - **K**: Text Editor (**No resuelto aún**)
-- **L**: Cardboard Container (**No resuelto aún**)
+- [**L**: Cardboard Container](https://github.com/Las-Divinas-ICPC/TCMX23/blob/main/contest08/J.cpp)
 
 ### Contest 9
 - [**A**: Programming a robot ⭐️](https://github.com/Las-Divinas-ICPC/TCMX23/blob/main/contest09/A.cpp)
